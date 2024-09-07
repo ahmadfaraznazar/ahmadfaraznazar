@@ -10,15 +10,6 @@
 I'm a Frontend Developemer.
 I'd especially like to work in a tight knit team where I can make impact quickly. If you are hiring, connect with me. Let's chat!
 
-
-## 🔗 Connect with me:
-
- [![Linkedin](https://img.shields.io/badge/linkedin-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ahmad-nazar-web-developer/)
-
-<br />
-
-
-
 ## 🛠️ Languages and Tools:
 
 <br />
@@ -32,6 +23,15 @@ I'd especially like to work in a tight knit team where I can make impact quickly
 ![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
 
 <br />
+
+## 🔗 Connect with me:
+
+ [![Linkedin](https://img.shields.io/badge/linkedin-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ahmad-nazar-web-developer/)
+
+<br />
+
+
+
 
 
 
