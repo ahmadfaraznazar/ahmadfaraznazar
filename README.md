@@ -3,13 +3,16 @@
 
 
 
-<div align="center">
+
 
 ##  About Me:
 
 <div align="left">
 I'm a Frontend Developer with a passion for creating efficient, user-friendly web experiences. I'm particularly interested in joining a collaborative team where I can contribute and make a meaningful impact from the start. If you're looking for someone who is eager to grow and bring value to your projects, feel free to connect with me. 
 </div>
+
+<div align="center">
+
 ## 🛠️ Languages and Tools:
 
 <br />
