@@ -1,15 +1,12 @@
-💫 About Me:
-🔭 I’m currently working on Weatherly App<br>🌱 I’m currently learning Wordpress<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-nazar-web-developer) 
 
 
 
 
 <div align="center">
 
+##💫 About Me:
+🔭 I’m currently working on Weatherly App<br>🌱 I’m currently learning Wordpress<br>
 
 
 ## 🔗 Connect with me:
