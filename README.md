@@ -4,7 +4,7 @@
 
 ## 🔗 Connect with me:
 
- [![Linkedin](https://img.shields.io/badge/linkedin-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gokadzev/)
+ [![Linkedin](https://img.shields.io/badge/linkedin-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ahmad-nazar-web-developer/)
 
 <br />
 
