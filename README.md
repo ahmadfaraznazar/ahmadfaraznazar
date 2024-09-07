@@ -5,9 +5,10 @@
 
 <div align="center">
 
-## 💫 About Me:
-🔭 I’m currently working on Weatherly App
-🌱 I’m currently learning Wordpress<br>
+##  About Me:
+
+I'm a Frontend Developemer.
+I'd especially like to work in a tight knit team where I can make impact quickly. If you are hiring, connect with me. Let's chat!
 
 
 ## 🔗 Connect with me:
