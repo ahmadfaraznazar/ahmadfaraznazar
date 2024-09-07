@@ -5,8 +5,9 @@
 
 <div align="center">
 
-##💫 About Me:
-🔭 I’m currently working on Weatherly App<br>🌱 I’m currently learning Wordpress<br>
+## 💫 About Me:
+🔭 I’m currently working on Weatherly App
+🌱 I’m currently learning Wordpress<br>
 
 
 ## 🔗 Connect with me:
